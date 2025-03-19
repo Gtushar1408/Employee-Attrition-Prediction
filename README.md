@@ -77,30 +77,3 @@ HR Analytics: Predicting employee turnover to improve retention strategies.
 Resource Planning: Ensuring workforce stability.
 
 Performance Insights: Identifying key factors influencing attrition.
-
-🚀 How to Use
-
-1. Clone Repository
-
-   git clone https://github.com/your-username/employee-attrition-prediction.git
-   cd employee-attrition-prediction
-
-2. Install Dependencies
-
-   pip install -r requirements.txt
-
-3. Run the Model
-
-   python train_model.py
-
-4. Evaluate Performance
-
-   python evaluate.py
-
-🛠️ Future Enhancements
-
-Hyperparameter tuning for better performance.
-
-Implementation of advanced models like XGBoost.
-
-Deployment using Flask or FastAPI.
